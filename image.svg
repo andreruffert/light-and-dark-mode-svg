@@ -1,0 +1,9 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    :root { color: black }
+    @media (prefers-color-scheme: dark) {
+      :root { color: white }
+    }
+  </style>
+  <rect fill="currentColor" width="100" height="100" />
+</svg>
